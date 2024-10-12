@@ -1,0 +1,17 @@
+{
+  "name": "htmx-contactmanager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "method-override": "^3.0.0",
+    "pug": "^3.0.3"
+  }
+}
